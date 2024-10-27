@@ -1,0 +1,3 @@
+C:/Users/dgrab/OneDrive/HF Systemtechnik/INF/1_github_exercises/06_arrays/cmake-build-debug/CMakeFiles/06_arrays.dir
+C:/Users/dgrab/OneDrive/HF Systemtechnik/INF/1_github_exercises/06_arrays/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dgrab/OneDrive/HF Systemtechnik/INF/1_github_exercises/06_arrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir
